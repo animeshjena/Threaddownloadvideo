@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Threaddownloadvideo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="url_address">
+        <item>http://www.androidbegin.com/tutorial/AndroidCommercial.3gp</item>
+        <item>http://clivertech.com//Videos/WTC1.m4v</item>
+
+    </string-array>
+    <string-array name="video">
+    <item>Video1</item>
+        <item>Video2</item>
+    </string-array>
+</resources>
